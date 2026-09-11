@@ -1,4 +1,4 @@
-`"""
+"""
 K4 — Ngày 1: Khám Phá LLM API (4 tiếng)
 AICB-P1: AI Practical Competency Program, Phase 1
 
